@@ -1,0 +1,11 @@
+Node-samples/node_one/node_modules
+Node-samples/node_redis/node_modules
+Node-samples/node_redis/package-lock.json
+
+
+React/react-app/node_modules
+React/react-app/build
+
+React/react-nginx/node_modules
+
+
